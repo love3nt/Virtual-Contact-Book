@@ -1,6 +1,6 @@
 # Lyric Love
 # Apr. 26
-# Final Project
+# Final Project for IST 2310 course. All code written by me (Lyric Love).
 
 # This program will serve as a contacts book/holder, it will allow the user to add, edit, and/or delete contacts to view at anytime.
 
